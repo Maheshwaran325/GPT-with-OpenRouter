@@ -6,7 +6,7 @@ from shared import constants
 # Call the sidebar function to get API key, selected model, temperature, and max_tokens
 api_key, selected_model, temperature, max_tokens = sidebar(constants.OPENROUTER_DEFAULT_CHAT_MODEL)
 
-st.title("💬 Streamlit GPT")
+st.title("💬 ChatCentral")
 
 # Initialize chat history
 if "messages" not in st.session_state:

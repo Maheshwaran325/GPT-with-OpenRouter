@@ -36,7 +36,7 @@ def handle_model_selection(available_models, selected_model, default_model):
 
 def sidebar(default_model):
     with st.sidebar:
-        st.title('🦙💬 Llama 2 Chatbot')
+        st.title('🦙💬 Chat with OpenRouter')
         if 'OPENROUTER_API_TOKEN' in st.secrets:
             st.success('API key already provided!', icon='✅')
             api_key = st.secrets['OPENROUTER_API_TOKEN']

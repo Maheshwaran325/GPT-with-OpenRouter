@@ -1,4 +1,6 @@
-# GPT with OpenRouter
+# ChatCentral
+
+## Chat with OpenRouter
 
 ## Overview
 
