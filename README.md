@@ -23,7 +23,7 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/streamlit-gpt.git
+   git clone https://github.com/Maheshwaran325/GPT-with-OpenRouter.git
    cd streamlit-gpt
    ```
 
